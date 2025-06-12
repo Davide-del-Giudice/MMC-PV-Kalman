@@ -1,4 +1,4 @@
-# MMC_PV_Kalman
+# MMC-PV-Kalman
 
 
 This repository includes additional material linked to the paper "Three-Phase Reduced-Sensor MMC with Kalman
